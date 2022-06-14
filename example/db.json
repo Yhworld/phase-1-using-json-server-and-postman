@@ -2,18 +2,21 @@
   "articles": [
     {
       "id": 1,
-      "title": "Example Article",
-      "content": "This is an example."
+      "title": "Example Article 1",
+      "content": "This is the first example.",
+      "description": "good for programming"
     },
     {
       "id": 2,
-      "title": "Second Article",
-      "content": "This is also an example."
+      "title": "Example Article 2",
+      "content": "This is the second example.",
+      "description": " Also good for programming"
     },
     {
       "title": "Third Article",
       "content": "Another example!",
-      "id": 3
+      "id": 3,
+      "description": "Good combat Article"
     }
   ]
 }
